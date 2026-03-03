@@ -8,3 +8,13 @@ O objetivo era identificar a loja com menor eficiência e apresentar uma recomen
 - Média de avaliação dos clientes.
 - Produtos mais e menos vendidos.
 - Custo médio do frete.
+
+# Ferramentas utilizadas no processo
+- Python
+- Visual Studio Code
+- Jupyter Notebook
+
+Bibliotecas
+- Pandas
+- Numpy
+- Matplotlib

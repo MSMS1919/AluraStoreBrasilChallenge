@@ -11,7 +11,6 @@ O objetivo era identificar a loja com menor eficiência e apresentar uma recomen
 
 # Ferramentas utilizadas no processo
 - Python
-- Visual Studio Code
 - Jupyter Notebook
 
 Bibliotecas usufruidas:

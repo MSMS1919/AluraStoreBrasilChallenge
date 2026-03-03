@@ -14,7 +14,7 @@ O objetivo era identificar a loja com menor eficiência e apresentar uma recomen
 - Visual Studio Code
 - Jupyter Notebook
 
-Bibliotecas
+Bibliotecas usufruidas:
 - Pandas
 - Numpy
 - Matplotlib
